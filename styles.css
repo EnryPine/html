@@ -1,0 +1,13 @@
+body {
+  background-color: 607D8B;
+}
+
+.divisore {
+	margin: auto;
+    width: 80%; /* Puoi scegliere una larghezza specifica */
+    height: 70px; /* Altezza del divisore */
+    background-color: #999; /* Colore del divisore */
+    border-radius: 10px; /* Angoli stondati */
+	text-align: center; /* Testo al centro*/
+	
+} 
