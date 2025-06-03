@@ -4,10 +4,10 @@ body {
 
 .divisore {
 	margin: auto;
-    width: 80%; /* Puoi scegliere una larghezza specifica */
-    height: 70px; /* Altezza del divisore */
-    background-color: #999; /* Colore del divisore */
-    border-radius: 10px; /* Angoli stondati */
-	text-align: center; /* Testo al centro*/
+    width: 80%;
+    height: 70px;
+    background-color: #999;
+    border-radius: 10px;
+	text-align: center;
 	
 } 
